@@ -1,0 +1,14 @@
+Build a 3D World in React with ThreeJS and React Three Fiber
+https://www.youtube.com/watch?v=9ZEjSxDRIik&ab_channel=CodingTech
+
+https://github.com/pmndrs/drei
+https://www.npmjs.com/package/use-cannon
+
+
+not use npm i react-three-fiber --dev-save
+npm i @react-three/fiber 
+
+npm install @react-three/drei
+
+not use use-connon, use this instead
+npm install @react-three/connon
