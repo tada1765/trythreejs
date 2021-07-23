@@ -2,6 +2,7 @@
   "name": "trythreejs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tada1765.github.io/trythreejs",
   "dependencies": {
     "@react-three/cannon": "^2.3.3",
     "@react-three/drei": "^6.2.0",
